@@ -123,4 +123,4 @@ The system will:
 - `qdrant_loader.py` - Loads embeddings into Qdrant
 - `chat.py` - Provides conversational interface for querying regulations
 - `requirements.txt` - Required Python packages
-- `Qdrant/` - Contains Qdrant database configuration and data
+- `Qdrant/` - Contains Qdrant database configuration and data 
