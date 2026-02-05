@@ -1,5 +1,8 @@
 # pAIralegal - AI-Powered Insurance Regulation Assistant
 
+Demo 1: https://youtu.be/VL2mDoAz2n4?si=azV_qd-DJ7Sa7ieG
+Demo 2: https://youtu.be/95DSyvxcjnA?si=g9bFcRapW7N94dwL
+
 ![pAIralegal Interface](images/Screenshot%202025-05-05%20101159.png)
 
 pAIralegal is an advanced AI system designed to help insurance professionals efficiently navigate and understand complex insurance regulations across different states. By leveraging state-of-the-art natural language processing and vector search technologies, pAIralegal makes it easy to find accurate, state-specific regulatory information without manually searching through lengthy documents.
