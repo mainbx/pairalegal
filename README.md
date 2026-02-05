@@ -1,6 +1,7 @@
 # pAIralegal - AI-Powered Insurance Regulation Assistant
 
 Demo 1: https://youtu.be/VL2mDoAz2n4?si=azV_qd-DJ7Sa7ieG
+
 Demo 2: https://youtu.be/95DSyvxcjnA?si=g9bFcRapW7N94dwL
 
 ![pAIralegal Interface](images/Screenshot%202025-05-05%20101159.png)
