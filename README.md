@@ -44,7 +44,7 @@ The pAIralegal system consists of several integrated components that work togeth
 
 1. Clone the repository
 ```bash
-git clone https://github.com/ramseyxhassan/pairalegal
+git clone https://github.com/axm0/pairalegal
 cd pairalegal
 ```
 
