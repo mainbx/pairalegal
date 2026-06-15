@@ -3,7 +3,7 @@
 
 ![pAIralegal Interface](images/Screenshot%202025-05-05%20101159.png)
 
-pAIralegal is an advanced AI system designed to help insurance professionals efficiently navigate and understand complex insurance regulations across different states. By leveraging state-of-the-art natural language processing and vector search technologies, pAIralegal makes it easy to find accurate, state-specific regulatory information without manually searching through lengthy documents.
+pAIralegal is a retrieval-augmented insurance filing assistant designed to help insurance professionals navigate state-specific regulatory documents. It combines SERFF collection, OCR/PDF processing, embeddings, Qdrant vector search, and local LLM responses grounded in retrieved filing context.
 
 ## System Architecture
 
@@ -26,10 +26,10 @@ The pAIralegal system consists of several integrated components that work togeth
 - Stores embeddings in Qdrant, a high-performance vector database
 - Utilizes cosine distance and HNSW (Hierarchical Navigable Small World) algorithm for efficient similarity searches
 
-### 4. LLaMA-Powered Response Generation
+### 4. Local LLaMA Response Generation
 - Matches user queries against stored document embeddings
 - Retrieves relevant context using vector similarity search
-- Generates detailed, contextually accurate responses using a fine-tuned LLaMA 3.2 model
+- Generates detailed, contextually grounded responses using a local LLaMA 3.2 model
 
 ## Setup Instructions
 
