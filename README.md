@@ -5,6 +5,11 @@
 
 pAIralegal is a retrieval-augmented insurance filing assistant designed to help insurance professionals navigate state-specific regulatory documents. It combines SERFF collection, OCR/PDF processing, embeddings, Qdrant vector search, and local LLM responses grounded in retrieved filing context.
 
+## Video Demos
+
+- [Demo 1](https://youtu.be/VL2mDoAz2n4?si=azV_qd-DJ7Sa7ieG)
+- [Demo 2](https://youtu.be/95DSyvxcjnA?si=g9bFcRapW7N94dwL)
+
 ## System Architecture
 
 ![System Architecture](images/Screenshot%202025-05-05%20101654.png)
