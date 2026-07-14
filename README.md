@@ -1,14 +1,21 @@
 # pAIralegal - AI-Powered Insurance Regulation Assistant
 
+## Video Demos
+
+<p align="center">
+  <a href="https://youtu.be/95DSyvxcjnA?si=g9bFcRapW7N94dwL">
+    <img src="https://img.youtube.com/vi/95DSyvxcjnA/maxresdefault.jpg" alt="pAIralegal Demo" width="49%">
+  </a>
+  <a href="https://youtu.be/VL2mDoAz2n4?si=azV_qd-DJ7Sa7ieG">
+    <img src="https://img.youtube.com/vi/VL2mDoAz2n4/maxresdefault.jpg" alt="pAIralegal Demo (earlier version)" width="49%">
+  </a>
+</p>
+
+▶️ [**Watch the demo**](https://youtu.be/95DSyvxcjnA?si=g9bFcRapW7N94dwL) · [Earlier demo](https://youtu.be/VL2mDoAz2n4?si=azV_qd-DJ7Sa7ieG)
 
 ![pAIralegal Interface](images/Screenshot%202025-05-05%20101159.png)
 
 pAIralegal is a retrieval-augmented insurance filing assistant designed to help insurance professionals navigate state-specific regulatory documents. It combines SERFF collection, OCR/PDF processing, embeddings, Qdrant vector search, and local LLM responses grounded in retrieved filing context.
-
-## Video Demos
-
-- [Demo 1](https://youtu.be/VL2mDoAz2n4?si=azV_qd-DJ7Sa7ieG)
-- [Demo 2](https://youtu.be/95DSyvxcjnA?si=g9bFcRapW7N94dwL)
 
 ## System Architecture
 
